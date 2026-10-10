@@ -6,7 +6,6 @@ EduNexus centralise la gestion académique au sein d'une application web et mobi
 
 [![Démo en ligne](https://img.shields.io/badge/Demo-en%20ligne-brightgreen)](https://edunexus-q95r.onrender.com/)
 
-![Aperçu d'EduNexus](assets/Screenshot_20260604-193722.png)
 
 ## Problématique
 
